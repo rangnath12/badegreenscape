@@ -1,0 +1,6 @@
+{
+  "name": "Bade Greenscape",
+  "description": "A modern, visually engaging, and highly animated website for Bade Greenscape, a premium plant nursery business. Discover healthy saplings, indoor/outdoor plants, and expert garden care tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -56,7 +56,7 @@ export default function ContactForm({ preFilledSubject = '' }: ContactFormProps)
     try {
       const serviceId = 'service_yjfwdgm';
       const templateId = 'template_7e803zf';
-      const publicKey = (import.meta as any).env?.VITE_EMAILJS_PUBLIC_KEY || '';
+      const publicKey = (import.meta as any).env?.VITE_EMAILJS_PUBLIC_KEY || 'JNS1NBP9I7o5vKLa7';
 
       if (!publicKey) {
         throw new Error(
